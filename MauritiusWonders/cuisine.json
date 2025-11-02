@@ -1,0 +1,81 @@
+{
+    "cuisine": [
+        {
+            "image": "img\/IMG-20250316-WA0027.jpg",
+            "name": "Slizzling Agneau",
+            "description": "Savor the juicy grilled chicken that has been skillfully seasoned with herbs and spices that are reflective of the island, showcasing the variety of food traditionsSavor a range of delicious non-lamb meals in addition to sizzling agneau, which features delicate lamb seasoned with aromatic spices.",
+            "restaurant": "Chez Dhiraj, Flacq Super U",
+            "dish_tried": "Slizzling Agneau"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0034.jpg",
+            "name": "Chicken Grill",
+            "description": "Savor the juicy grilled chicken that has been skillfully seasoned with herbs and spices that are reflective of the island, showcasing the variety of food traditions in the area.",
+            "restaurant": "Chez Dhiraj, Flacq Super U",
+            "dish_tried": "Grilled Chicken With Chips & Salade"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0024.jpg",
+            "name": "Mauritian Biryani",
+            "description": "A unique blend of Indian and Mauritian flavors, this biryani is cooked with marinated meat and fragrant spices.",
+            "restaurant": "Briani House in Food Court, Flacq Super U",
+            "dish_tried": "Chicken Biryani"
+        },
+        {
+            "image": "img\\IMG-20250316-WA0032.jpg",
+            "name": "Grilled Lobster",
+            "description": "Enjoy the delicious taste of perfectly seasoned and roasted grilled lobster, which showcases the unique features of the island's coast.",
+            "restaurant": "Green Island, Trou D'Eau Douce",
+            "dish_tried": "Grilled Lobster WIth Chips"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0029.jpg",
+            "name": "Thai Chicken Curry",
+            "description": "Savor the bold flavors of Thai Chicken Curry, which consists of soft chicken simmered in a creamy coconut milk sauce that is flavored with fragrant herbs and spices.",
+            "restaurant": "Green Island, Trou D'Eau Douce",
+            "dish_tried": "Thai Chicken Curry"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0033.jpg",
+            "name": "Mine Bouille",
+            "description": "A delicious noodle soup served with vegetables, seafood, or meat, perfect for a light meal.",
+            "restaurant": "Vye Karay, Flacq Super U",
+            "dish_tried": "Mine Bouille with Chicken And Egg"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0031.jpg",
+            "name": "Paneer Tikka",
+            "description": "Paneer Tikka is a popular Indian appetizer made of marinated cubes of paneer (Indian cottage cheese) grilled or roasted, often served with mint chutney and garnished with onions and peppers.",
+            "restaurant": "Kesar Indian Restaurant, Flacq",
+            "dish_tried": "Paneer Tikka"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0025.jpg",
+            "name": "Safran grilled prawns",
+            "description": "Experience the exquisite flavors of safran grilled prawns, marinated in aromatic spices and grilled to perfection for a delightful seafood treat.",
+            "restaurant": "Sitar, Bagatelle",
+            "dish_tried": "Safran grilled prawns"
+        },
+        {
+            "image": "img\/IMG-20250316-WA0026.jpg",
+            "name": "Chicken Burger",
+            "description": "A delicious double chicken burger featuring two crispy, lightly fried chicken fillets, served with fresh toppings and a burst of flavor in every bite.",
+            "restaurant": "Jo&Anne delice, Ecroignard",
+            "dish_tried": "Chicken Burger"
+        },
+        {
+            "image": "https:\/\/th.bing.com\/th\/id\/OIP.9FmC8kpJLgVxoqqc8BviagHaE8?rs=1&pid=ImgDetMain",
+            "name": "Mauritian 7 curry",
+            "description": "The most common vegetables used in Mauritian cuisine are tomatoes, onions, lalo (okra), brinzel (eggplants), chou chou (chayote), lay (garlic) and pima (chillies).",
+            "restaurant": "Sitar",
+            "dish_tried": "Roti And Curry"
+        },
+        {
+            "image": "https:\/\/th.bing.com\/th\/id\/OIP.9FmC8kpJLgVxoqqc8BviagHaE8?rs=1&pid=ImgDetMain",
+            "name": "Mauritian Cuisine",
+            "description": "The most common vegetables used in Mauritian cuisine are tomatoes, onions, lalo (okra), brinzel (eggplants), chou chou (chayote), lay (garlic) and pima (chillies).",
+            "restaurant": "mt ory",
+            "dish_tried": "7 carri"
+        }
+    ]
+}
