@@ -1,0 +1,81 @@
+
+.activities-section {
+    padding: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+.activities-intro p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.activities-categories {
+    margin-top: 30px;
+}
+
+.activities-categories h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.activities-categories ul {
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.activities-categories ul li {
+    margin: 10px 0;
+}
+
+.activities-gallery {
+    margin-top: 30px;
+}
+
+.activities-gallery h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.activities-gallery img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
+    padding: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+    color: #FFD700; /* Golden color on hover */
+}
